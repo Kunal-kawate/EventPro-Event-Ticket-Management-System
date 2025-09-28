@@ -1,6 +1,7 @@
 EventPro - Event Ticket Management System
 
 A simple, yet effective web application for managing events and booking tickets, built with Python and Streamlit.
+
 📋 Description
 
 EventPro provides a straightforward interface for both administrators and users. Admins can create, manage, and delete events, as well as view all the bookings for each event. Users can browse the list of upcoming events and book their tickets with ease.
