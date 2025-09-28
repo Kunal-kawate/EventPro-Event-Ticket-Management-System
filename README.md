@@ -6,6 +6,14 @@ A simple, yet effective web application for managing events and booking tickets,
 EventPro provides a straightforward interface for both administrators and users. Admins can create, manage, and delete events, as well as view all the bookings for each event. Users can browse the list of upcoming events and book their tickets with ease.
 
 The application uses a local SQLite database to persist all data, making it a self-contained and easy-to-run project.
+![Application View](images/1.png)
+
+![Application View](images/2.png)
+
+![Application View](images/3.png)
+
+![Application View](images/4.png)
+
 ✨ Features
 
 The application is split into two main sections: a public-facing Events Page and a secure Admin Panel.
