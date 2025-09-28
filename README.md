@@ -58,8 +58,8 @@ To run this project locally, follow these steps:
 
 2. Clone the Repository
 
-git clone [https://github.com/Kunal-kawate/EventPro-Event-Ticket-Management-System.git](https://github.com/Kunal-kawate/EventPro-Event-Ticket-Management-System.git)
-cd EventPro-Event-Ticket-Management-System
+    git clone [https://github.com/Kunal-kawate/EventPro-Event-Ticket-Management-System.git](https://github.com/Kunal-kawate/EventPro-Event-Ticket-Management-System.git)
+    cd EventPro-Event-Ticket-Management-System
 
 
 
